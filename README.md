@@ -2,4 +2,4 @@
 First github repo
 
 Hi,
-This is my First Github projects.
+This is my First Github project.
